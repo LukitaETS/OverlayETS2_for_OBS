@@ -1,5 +1,5 @@
 **INGLES/ENGLISH**
-
+For now, the overlay is only available in Spanish, but I will have an English version soon. As mentioned before, it is open source in case you want to check the code and translate it into your own language.
 #  **Installation Tutorial – ETS2 Overlay**
 
 ##  Download
