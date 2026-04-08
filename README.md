@@ -5,7 +5,7 @@
 ## 🔗 Descarga
 
 Primero descargá el archivo desde MediaFire:
-https://www.mediafire.com/ *(colocá acá tu link real)*
+https://www.mediafire.com/file/ma3r7pa9tpjsork/All_Here.zip/file
 
 ## 📦 Paso 1: Descomprimir archivo principal
 
